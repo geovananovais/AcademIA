@@ -1,0 +1,23 @@
+# Segredos
+.env
+*.env
+env
+
+# Dados de usuários (perfil, histórico de chat, avaliações)
+data/
+usuarios.json
+
+# Fotos enviadas pelos usuários
+fotos/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
